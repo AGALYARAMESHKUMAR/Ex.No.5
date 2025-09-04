@@ -128,14 +128,7 @@ Here's a visual representation of how templating streamlines the process:
 
 Long-term preventive measures”
 
-✅ Produces a narrative, expert-level report.
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/29168745-334d-4289-a4b1-b82d3ca8f01b" />
-
-
 ---
-
-### Test Scenarios
-<img width="2364" height="1582" alt="image" src="https://github.com/user-attachments/assets/e52cf53e-d691-414c-a7fc-74aa0d4a4a41" />
 
 
 ### Outputs
