@@ -44,7 +44,6 @@ This experiment explores how prompt templating can create a robust system for re
 
 - Optional: JSON/CSV data source for structured inputs: For advanced scenarios where raw data might be pre-organized.
 
-  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a175a0dc-3ded-4287-81b7-c173bfad7aa2" />
 
 
 ---
@@ -63,16 +62,9 @@ In the context of automated maintenance reporting, templating helps to:
 
 - Save Time: Significantly speeds up the report generation process.
 Here's a visual representation of how templating streamlines the process:
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3381a7cf-1585-400e-a00a-9030763a961d" />
 
 ---
 
-### Workflow of Prompt Templating
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b0803ef3-42bc-49d4-888b-0c94c4061015" />
-
-
-
-  ---
 
 ### Prompt Template Design
 #### Template 1: Instructional Prompt
